@@ -1,0 +1,34 @@
+TEXT {
+    Your target is sitting by his computer. You are shrouded in shadow, hidden completely.
+}
+
+CHOICES {
+    CHOICE {
+        [Shoot him dead.]
+        EFFECTS {
+            SHOT_DEAD = true
+            TEXT {
+                You lift your hand calmly, the shots ring out cleanly, tearing his head and monitor apart.
+                He falls to the floor, dead.
+            }
+        }
+    }
+
+    CHOICE {
+        [Knock him out.]
+        EFFECTS {
+            KNOCKED_OUT = true
+            TEXT {
+                You make your way up behind him. He's browsing a site you wouldn't begin to know how to read. Depraved, although tame, images fill his screen.
+                Your silver pistol flies across his head, knocking it into the table, and then, the floor.
+            }
+        }
+    }
+}
+
+IF SHOT_DEAD {
+    TEXT {
+        The echoes of the shot is the only source of sense. You can faintly see the faint flickering of the cracked monitor, hanging by it's wire from teh desk.
+        Your target's head is half on the floor, half on the wall.
+    }
+}

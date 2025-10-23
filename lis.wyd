@@ -1,0 +1,23 @@
+TEXT {
+    Max's Room
+    (Alarm beeps)
+
+    Ugh... Insert groan here.
+
+    Alarm: Brrz. Brrz.
+
+    ...
+
+    h, the places you'll go, Max. Where to now?
+    Where should I go?
+}
+
+CHOICES {
+    CHOICE {
+        [Go straight to class]
+        EFFECTS {
+            GOTO(10) 
+        }
+        
+    }
+}
