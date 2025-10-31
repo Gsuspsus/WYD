@@ -1,23 +1,405 @@
+EFFECTS {
+    INTRO = "Test"
+}
+
 TEXT {
-    Max's Room
-    (Alarm beeps)
-
-    Ugh... Insert groan here.
-
-    Alarm: Brrz. Brrz.
-
-    ...
-
-    h, the places you'll go, Max. Where to now?
-    Where should I go?
+        Classroom ($[[INTRO]]):
+        If I'm supposed to pick a partner to take a photo with, then...maybe it'd be just be a good strategy to ask an aspiring model.
+        The contest's theme is "bonds"... Maybe the bond between photographer and subject is just the natural choice here.
+        I know that Rachel is willing to model for just about anyone with a camera. She knows that she's really good at it. Sometimes she even does the asking.
+        I don't think anybody's going to forget the time she walked around campus handing out headshots last year. Only Rachel Amber could get away with something like that.
+        But I've never asked her to pose for me before. She's in plenty of my candid shots, along with Chloe, but nothing formal like this. It's not that I haven't wanted to, but I figure that she's probably not into my retro style... She has the kind of face that deserves to be shown in HD. High fashion campaigns are never shot with instant cameras.
+        I might be wasting her time completely... But...she's smiling at me, like an invitation. At least I think that's what it means. I can't really tell. As always, Rachel's an eternal enigma.
+        Rachel: I knew it'd be a contest!
+        Max: How did you know? I seriously wasn't expecting it.
+        Rachel: Well, mostly because there was one at this time last year.
+        Oh. Right.
+        Rachel: But also because I might have mystical powers.
+        She winks, and then looks at me expectantly. Is this my cue? How does Chloe manage to decipher Rachel's signals, anyway? I've got to ask her for a lesson sometime soon.
+        Max: Um...Rachel...
+        Rachel leans in, her elbows on the desk, her chin in her hands. She looks like she's plotting something.
+        Rachel: Yes...?
+        She totally already knows what I'm going to say, doesn't she? I can hear it in her tone. My face feels warm.
+        Max: I was wondering if you'd want to, uh, be my partner for this thing...
+        And then I hasten to add:
+        Max: But if you want to work with Evan or Hayden or something, that's cool, too.
+        Rachel lifts a hand and catches her feather earring between her fingers. She turns her eyes up towards the ceiling, and then back to me. I can't read her at all. I have no idea what to expect.
+        Maybe she wants to scope out her prospects first. I bet half the class is itching to ask her to be their partner.
+        Rachel: I was hoping you'd ask! Let's fuckin' do it.
+        Mx. Dog turns at the sound of the expletive. Rachel just smiles dazzlingly at them, and they move on.
+        Hold on...she said yes? And she was hoping I'd ask?
+        Max: For reals?
+        Rachel: For real.
+        We're interrupted by Mx. Dog trailing back to the front of the classroom and clearing their throat.
+        Mx. Dog: Alright, alright. I've got to get into today's lecture. If you haven't picked a partner yet, then be sure that you do before class lets out.
+        I settle back into my seat as the lesson begins, but I can barely focus. All I can think about is the contest.
+        (School bell rings)
+        When class lets out, it feels like hours later, and I leap out of my seat. Rachel's taking her time getting to her feet, sweeping her lock hair out back behind her shoulders as she gathers her things. Her phone gives a little buzz.
+        (Phone buzzes)
+        She gives it a quick glance, pausing for a moment to stare, before she tucks it away and then turns to me.
+        Rachel: 'Sup?
+        She doesn't wait for me to answer before continuing on.
+        Rachel: So I'm a little busy this week, but I'm gonna try to give you as much time as I can. Around when do you want to hook up for this thing?
+        Max: Oh! Uh...any...any time is fine.
+        To be honest, I'm still stuck on the thought that Rachel agreed to be my partner. I had made a pretty impulsive choice by asking her.
+        Not that working with Rachel would be a bad thing. Rachel's been nothing but nice to me since the day I met her.
+        But she has so many different options. I can see Hayden looking towards her, like he's thinking of asking...until he seems to realize that she's already matched up.
+        Max: Were you really hoping I'd ask?
+        Rachel: I wasn't winking at you just to exercise my eyelid muscles, if that's what you're wondering. You're gonna let me model for you, riiiight?
+        Max: R—right.
+        I give a nervous little laugh as we cross the classroom. I stand aside as Rachel gives Mx. Dog our names for the registration sheet.
+        when we're both marked down, she turns back to me, one hand on her hip. She looks so cool and confident that I just feel even more awkward in comparison.
+        Rachel: If anytime is fine, then how about lunchtime tomorrow? We can meet out on the quad.
+        Max: Okay. Then we can find a time that works for both of us for the photo, right?
+        Rachel: Right.
+        I hesitate, thinking of all the social obligations that Rachel seems to constantly have.
+        Max: I know you've got a lot going on...
+        Rachel: It's fine. I'm all in!
+        She smiles brightly at me. I'm a little startled by her total lack of hesitance, but I smile back.
+        Max: Okay.
+        (Phone rings)
+        Just then, Rachel's phone starts ringing. She pulls it back out and stares at the screen, frowning slightly.
+        Rachel: Hey, I'm sorry, but I've got to take this.
+        Max: Oh! It's no problem. Um...I'll see you later. Or tomorrow.
+        Rachel: Thanks, Max. See you soon, 'kay?
+        She reaches out to squeeze my arm and then swipes to answer the call. As she walks out of the classroom, I can hear her greet whoever is on the other end of the line.
+        Rachel: Hey... Yes, of course I've got time to talk...
+        I don't feel like I've learned much about why Rachel agreed to partner with me for the contest. Whenever we've spent time together before, it was almost always with Chloe there. So it feels a little weird to think that this is going to be just Rachel and I. It could be hella awkward.
+        But she said yes... If anything, I just feel more confused about Rachel's agreement now.
+        But I guess I can start nosing around for answers tomorrow.
+        Tuesday
+        Even a year in, I still feel overwhelmed and thankful to be at Blackwell Academy. Especially on days like this. The campus is beautiful in the fall, like something out of a book, or a movie...
+        On some days, I start to feel like Blackwell has become second nature to me, and it's easy to overlook the little things that I love so much about it.
+        But on days like today, I feel excited about it all over again, the way I was when I first got my acceptance letter.
+        Even just getting to eat my lunch outside by the fountain feels like a total novelty. Or a privilege. I usually eat lunch with Chloe, or I take tea with Kate, but I like having the chance to sit alone sometimes. I really like just watching everyone here.
+        That's weird, isn't it? My mind's always working like a camera, even when I don't have one in my hands.
+        I'm supposed to meet with Rachel out here. I'm still waiting, so I take a look around as I nosh on my sandwich.
+        I love Blackwell's old brick buildings. They're especially pretty in the fall, when the leaves all turn the same shades of red and orange. That's probably why you can always find people sprawled all over the grounds. Everyone looks so comfortable out here, lazing on the grass.
+        I think my favorite part about the quad is that Blackwell's always rotating the art displays. There's something new in them every month. Sometimes it's student work, but sometimes they feature work by famous artists. Half of me hopes to eventually be able to see one of my photos in one of these displays, but the other half of me is saying no way.
+        I have to work on that. Confidence. My friends are always reassuring me, and I know that they wouldn't lie, but it's hard to be objective about your own work. You have to suffer for your art, right? I'm my own worst critic.
+        Or maybe I'm feeling extra crispy sensitive because I'm so nervous about the contest. There's been butterflies in my stomach since yesterday. I can't believe I'm going to be working with Rachel on it. I could've asked anyone, but Rachel's the closest thing Blackwell has to a real deal model, and I've never worked with one before... Why did I even ask her? I'm so nervous. Rachel's had her photo taken by so many people at Blackwell. Legit photographers, like Evan.
+        Then there's me and my instant camera. Rachel's so nice...I probably put her on the spot, so she felt obligated to say yes. Way to go, Max. Mystery solved. Yesterday, it had seemed like the perfect plan...for all of five seconds, before the doubt began trickling in. It hasn't moved since.
+        Hold on. This kind of negative thinking is just making those butterflies multiply. Rachel's my friend.
+        Where is she, anyway? I've been waiting for almost 10 minutes. Not that I'm annoyed. I know that Rachel has a really busy social life. It's almost like she knows how to be everywhere at once.
+        Speaking of being everywhere at once...there's some graffiti here with her name on it on the fountain. I lean over to examine it. Wowser. That's...really mean.
+        It's not the first time I've seen something like this, either. In the bathrooms, in the dorms, on the desks... There's lots of...not so nice stuff written about Rachel in all the grungiest corners of campus. I'm not sure why. Rachel's not the kind of person who would do anything to actually deserve this kind of shit written about her.
+        At least...I don't think she is. I've known Rachel for a year already, and I still feel like I don't know that much about her. I mean, I know the basics. She was there for Chloe when I wasn't, and although I'll never get back those years I was away from my best friend, at least she had Rachel to lean on. And she's probably the most popular girl at all of Blackwell, even if Victoria Chase officially wears the crown. Rachel has more friends than I ever thought it was humanly possible to have.
+        But I feel like there's lots I still don't know about her. I'm sure of one thing, though. No one deserves t have something like this written about them in a public place. Or anywhere.
+        I slide my bag over to cover the graffiti and look at the rainbow bracelet on my wrist that Rachel made for me. And just like that, with perfect timing, I hear her voice. I look up. She's giving me a wave as she approaches the fountain.
+        Rachel: Hey, Max!
+        Max: Hi, Rachel.
+        Rachel: I totally meant to get here sooner.
 }
 
 CHOICES {
     CHOICE {
-        [Go straight to class]
+        [It's cool]
         EFFECTS {
-            GOTO(10) 
+            ITS_COOL_REPLY = true
         }
-        
+        TEXT {
+            Max: It's cool. I was eating.
+            Rachel: Oh, good. So you won't mind if I do? I kept running into distractions. I haven't even had time to eat all day.
+            Now that I take a good look at her, I see that Rachel really looks like she's been in a rush. I'm glad I decided to be patient. She's always got so much on her plate.
+            Max Of course I don't mind.
+            I look beyond her shoulder. The "skater bros" are all hanging out by the steps, like they always are. One of them waves at us...or maybe just at Rachel. I know she hangs out with them a lot. I don't know how one person manages to fit into so many social groups.
+            Max: You'd break their hearts. Justin's clearly drooling. I can see it all the way from here.
+            Rachel: Hell, yeah, I'd crush 'em. I wanna be a maneater!
+            Max: I thought you wanted to be a model.
+            Rachel: Part and parcel, Max.
+            She grins at me. It's so bright and warm. Rachel's smile has a way of making you feel special. Like she's totally happy to be devoting all of her attention to you. Maybe that's her secret to popularity.
+            Max: Well, I need you to keep it to modeling for this contest... If that's cool with you.
+            Rachel: Ice cold.
+            I cringe. Open mouth, insert foot much, self?
+            Max: I'm sorry—
+            Rachel: I mean it's cool, Max!
+            Max: Oh. Of course.
+            She laughs. I feel embarrassed. Of course I misunderstood. I'm reminded again of how there's a lot I still don't know about Rachel. Is it that I'm totally socially awkward, or is it that she's an enigma? Maybe it's a bit of both.
+            Rachel: Anyway, I am so excited for this thing.
+            Max: Really? I mean, me too, but...
+            Rachel: Come on. Sit with me over there.
+            Before I can respond, Rachel is reaching down to loop her arms around one of mine. She locks her grip on me, and I try not to stumble as I stand. Rachel leans into me, smiling, and she tugs me towards a tree.
+            I'm a little startled, but Rachel's always been really physical. She's always tapping your shoulder, or reaching for your arm, or hugging you to say hi. I like that about her. She's so extroverted compared to me.
+            (Birds chirp)
+            It's quieter here, away from the sound of the fountain.
+            Rachel only lets go of me once she moves to sit, and she pats the grass beside herself, unwrapping a granola bar as she talks.
+            Rachel: I'm so fucking stoked you asked me to do this with you.
+            Hearing her say it like that...I believe her. But why?
+            Max: You're doing me a huge favor, so if there's anything I can do for you, like if you get a project later in the year that you need help with, I'm there. I know a photography contest probably seems a little lame to you...
+            Rachel: A favor? What? I'm doing this for me!
+            Max: Huh?
+            Rachel: Well, for you, too.
+            Her expression softens. It lets me know that she's teasing. Rachel's always like that. It drives Chloe nuts.
+            Rachel: It's not lame. I think it's awesome. And I'm glad you asked me to be your partner. I mean...I want to be a model, and you want to be a photographer. So we're a perfect match for this thing, right?
+            A perfect match, huh?
+            Max: Well, when you put it that way...
+            Rachel: My logic's flawless.
+            Seeing how confident Rachel is, I feel a little better about everything already.
+        }
     }
+
+    CHOICE {
+        [What took you so long?]
+        EFFECTS {
+            TOOK_SO_LONG_REPLY = true
+        }
+        TEXT {
+            Max: What took you so long?
+            I say it kind of idly, but then I'm immediately worried that it comes out sounding kind of rude. Crap.
+            Rachel crosses her arms over her chest. She doesn't seem to be bothered.
+            Rachel: Oh, the usual. There's always someone crawling up my jock.
+            Max: Your...jock?
+            Do I even want to know? Probably not.
+            Rachel: And I keep getting sidelined. I should start wearing rollerblades. Then I could just fly past all the skater bros.
+            I look beyond her shoulder. The "skater bros" are all hanging out by the steps, like they always are. One of them waves at us...or maybe just at Rachel. I know she hangs out with them a lot. I don't know how one person manages to fit into so many social groups.
+            Max: You'd break their hearts. Justin's clearly drooling. I can see it all the way from here.
+            Rachel: Hell, yeah, I'd crush 'em. I wanna be a maneater!
+            Max: I thought you wanted to be a model.
+            Rachel: Part and parcel, Max.
+            She grins at me. It's so bright and warm. Rachel's smile has a way of making you feel special. Like she's totally happy to be devoting all of her attention to you. Maybe that's her secret to popularity.
+            Max: Well, I need you to keep it to modeling for this contest... If that's cool with you.
+            Rachel: Ice cold.
+            I cringe. Open mouth, insert foot much, self?
+            Max: I'm sorry—
+            Rachel: I mean it's cool, Max!
+            Max: Oh. Of course.
+            She laughs. I feel embarrassed. Of course I misunderstood. I'm reminded again of how there's a lot I still don't know about Rachel. Is it that I'm totally socially awkward, or is it that she's an enigma? Maybe it's a bit of both.
+            Rachel: Anyway, I am so excited for this thing.
+            Max: Really? I mean, me too, but...
+            Rachel: Come on. Sit with me over there.
+            Before I can respond, Rachel is reaching down to loop her arms around one of mine. She locks her grip on me, and I try not to stumble as I stand. Rachel leans into me, smiling, and she tugs me towards a tree.
+            I'm a little startled, but Rachel's always been really physical. She's always tapping your shoulder, or reaching for your arm, or hugging you to say hi. I like that about her. She's so extroverted compared to me.
+            (Birds chirp)
+            It's quieter here, away from the sound of the fountain.
+            Rachel only lets go of me once she moves to sit, and she pats the grass beside herself, unwrapping a granola bar as she talks.
+            Rachel: I'm so fucking stoked you asked me to do this with you.
+            Hearing her say it like that...I believe her. But why?
+            Max: You're doing me a huge favor, so if there's anything I can do for you, like if you get a project later in the year that you need help with, I'm there. I know a photography contest probably seems a little lame to you...
+            Rachel: A favor? What? I'm doing this for me!
+            Max: Huh?
+            Rachel: Well, for you, too.
+            Her expression softens. It lets me know that she's teasing. Rachel's always like that. It drives Chloe nuts.
+            Rachel: It's not lame. I think it's awesome. And I'm glad you asked me to be your partner. I mean...I want to be a model, and you want to be a photographer. So we're a perfect match for this thing, right?
+            A perfect match, huh?
+            Max: Well, when you put it that way...
+            Rachel: My logic's flawless.
+            Seeing how confident Rachel is, I feel a little better about everything already.
+        }
+    }
+    
+    CHOICE {
+        [What's up?]
+        EFFECTS {
+            WHATS_UP_REPLY = true
+        }
+        TEXT {
+            Max: What's up?
+            Rachel's apparently been waiting for someone to ask her, because she starts in right away.
+            Rachel: Don't ask me why, but it's been hard to concentrate lately. I don't usually let it get this bad.
+            I think about Rachel's flawless 4.0. She works so hard, but I've never been able to figure out how, or when.
+            With a social life like hers, where does she find the time to study?
+            Max: If you've got other assignments to work on, then the contest really isn't all that—
+            Rachel: I've been getting all of my shit under control so that I can keep my word. Partners, right? I'm not making you do all the of the work on your own.
+            Oh. I open my mouth to thank her, but Rachel's still talking.
+            I look beyond her shoulder. The "skater bros" are all hanging out by the steps, like they always are. One of them waves at us...or maybe just at Rachel. I know she hangs out with them a lot. I don't know how one person manages to fit into so many social groups.
+            Max: You'd break their hearts. Justin's clearly drooling. I can see it all the way from here.
+            Rachel: Hell, yeah, I'd crush 'em. I wanna be a maneater!
+            Max: I thought you wanted to be a model.
+            Rachel: Part and parcel, Max.
+            She grins at me. It's so bright and warm. Rachel's smile has a way of making you feel special. Like she's totally happy to be devoting all of her attention to you. Maybe that's her secret to popularity.
+            Max: Well, I need you to keep it to modeling for this contest... If that's cool with you.
+            Rachel: Ice cold.
+            I cringe. Open mouth, insert foot much, self?
+            Max: I'm sorry—
+            Rachel: I mean it's cool, Max!
+            Max: Oh. Of course.
+            She laughs. I feel embarrassed. Of course I misunderstood. I'm reminded again of how there's a lot I still don't know about Rachel. Is it that I'm totally socially awkward, or is it that she's an enigma? Maybe it's a bit of both.
+            Rachel: Anyway, I am so excited for this thing.
+            Max: Really? I mean, me too, but...
+            Rachel: Come on. Sit with me over there.
+            Before I can respond, Rachel is reaching down to loop her arms around one of mine. She locks her grip on me, and I try not to stumble as I stand. Rachel leans into me, smiling, and she tugs me towards a tree.
+            I'm a little startled, but Rachel's always been really physical. She's always tapping your shoulder, or reaching for your arm, or hugging you to say hi. I like that about her. She's so extroverted compared to me.
+            (Birds chirp)
+            It's quieter here, away from the sound of the fountain.
+            Rachel only lets go of me once she moves to sit, and she pats the grass beside herself, unwrapping a granola bar as she talks.
+            Rachel: I'm so fucking stoked you asked me to do this with you.
+            Hearing her say it like that...I believe her. But why?
+            Max: You're doing me a huge favor, so if there's anything I can do for you, like if you get a project later in the year that you need help with, I'm there. I know a photography contest probably seems a little lame to you...
+            Rachel: A favor? What? I'm doing this for me!
+            Max: Huh?
+            Rachel: Well, for you, too.
+            Her expression softens. It lets me know that she's teasing. Rachel's always like that. It drives Chloe nuts.
+            Rachel: It's not lame. I think it's awesome. And I'm glad you asked me to be your partner. I mean...I want to be a model, and you want to be a photographer. So we're a perfect match for this thing, right?
+            A perfect match, huh?
+            Max: Well, when you put it that way...
+            Rachel: My logic's flawless.
+            Seeing how confident Rachel is, I feel a little better about everything already.
+        }
+    }
+}
+
+CHOICES {
+    CHOICE {
+        [Aren't you everyone's muse?]
+        EFFECTS {
+            EVERYONES_MUSE_REPLY = true
+        }
+
+        TEXT {
+            I know that Rachel's used to having all kinds of attention...not just mine.
+            Max: Aren't you everyone's Blackwell muse?
+            Rachel flicks her eyes up from her granola bar, and then back down.
+            Rachel: Hmm? Oh. Well, I guess so.
+            Max: I mean, there's a lot of people who take inspiration from you. I've seen Daniel's drawings. They're amazing.
+            Rachel: That's because Daniel's a good artist. Anyone can be a muse.
+            Max: Maybe you've got something special.
+            Rachel: That's what they all say.
+            She laughs.
+            Rachel knows what she's talking about.
+            Max: I have to admit...there really is a synergy between models and photographers. It's sort of what came to mind when I asked you to be my partner. Uh, not that I would really know. You're kind of the first one I've worked with in a serious way...
+            Rachel's eyes light up. She leans in close, like she's going to whisper. Instinctively, I do, too.
+            Rachel: Synergy! That's the word!
+            Her exclamation makes me jerk back. Rachel can be loud sometimes. She and Chloe are like a two-woman firing squad.
+            Rachel: We're an electric combo, Max. I can feel it. And we can really amp it up one-on-one. Let's raise the stakes on this contest!
+            I laugh nervously. Rachel and I are so different. Really different. Can we synergize?
+            Max: I kinda need to figure out what the stakes even are before we do any raising...
+            Rachel tilts her head to the side and reaches up to idly touch the feather earring that she's always wearing. I've never seen her without it.
+            Rachel: Then how about we scout out some locations? We can go right now.
+            Max: And ditch class?
+            Rachel: And ditch class.
+            Rachel's smile dares me to take her up on it. I know that if I were Chloe, I'd instantly drop everything and go. They're always skipping together.
+            But I'm not Chloe. It's starting to fully hit me that I'm going to be spending plenty of time alone with Rachel this week. I don't know what to expect. And I have no idea what things are going to be like without Chloe around. I guess I'm going to find out.
+            Skipping class makes me nervous. We could easily just go later. But Rachel looks so enthusiastic about the idea...
+        }
+    }
+    
+    CHOICE {
+        [Do you like being photographed?]
+        EFFECTS {
+            LIKE_BEING_PHOTOGRAPHED_REPLY = true
+        }
+
+        TEXT {
+            I know that Rachel likes having her photo taken. She might actually snap more selfies than even I do.
+            Max: You like being photographed, right?
+            She lights up.
+            Rachel: Who doesn't?
+            Max: Touche.
+            Rachel: I don't know what it is, but I've always loved it. I've wanted to be a model since I was little. I know most people grow out of their childhood career goals, but...here I am.
+            Her tone is a little sheepish. I've never heard her sound like that before. It makes me feel less anxious about this whole thing.
+            Max: There's nothing wrong with that, Rachel. I've wanted to be a photographer since I was a kid, and I've never changed my mind.
+            Rachel: And we'll both own the fuck out of our dreams. Right?
+            Her enthusiasm makes me want to believe her. I smile.
+            Max: Right.
+            Rachel knows what she's talking about.
+            Max: I have to admit...there really is a synergy between models and photographers. It's sort of what came to mind when I asked you to be my partner. Uh, not that I would really know. You're kind of the first one I've worked with in a serious way...
+            Rachel's eyes light up. She leans in close, like she's going to whisper. Instinctively, I do, too.
+            Rachel: Synergy! That's the word!
+            Her exclamation makes me jerk back. Rachel can be loud sometimes. She and Chloe are like a two-woman firing squad.
+            Rachel: We're an electric combo, Max. I can feel it. And we can really amp it up one-on-one. Let's raise the stakes on this contest!
+            I laugh nervously. Rachel and I are so different. Really different. Can we synergize?
+            Max: I kinda need to figure out what the stakes even are before we do any raising...
+            Rachel tilts her head to the side and reaches up to idly touch the feather earring that she's always wearing. I've never seen her without it.
+            Rachel: Then how about we scout out some locations? We can go right now.
+            Max: And ditch class?
+            Rachel: And ditch class.
+            Rachel's smile dares me to take her up on it. I know that if I were Chloe, I'd instantly drop everything and go. They're always skipping together.
+            But I'm not Chloe. It's starting to fully hit me that I'm going to be spending plenty of time alone with Rachel this week. I don't know what to expect. And I have no idea what things are going to be like without Chloe around. I guess I'm going to find out.
+            Skipping class makes me nervous. We could easily just go later. But Rachel looks so enthusiastic about the idea...
+        }
+    }
+    
+    CHOICE {
+        [You really want me to take your photo?]
+        EFFECTS {
+            TAKE_YOUR_PICTURE_REPLY = true
+        }
+
+        TEXT {
+            Rachel's so certain that this is a good idea. I've still got work to do convincing myself.
+            Max: You really want me to take your photo?
+            Rachel: Why wouldn't I?
+            Rachel's giving me one of those dazzling smiles again.
+            Rachel: I love your photos, Max. Those polaroids you took of me at the fair this summer? I look at them, like, every day.
+            Whoa. I didn't think she cared that much about the candids I'd taken of her. But then I remember something.
+            Max: One of them is still your profile pic on Facebook.
+            Rachel: And it'll probably stay that way... At least until you take this new shot for the contest!
+            Max: Thanks, Rachel. Seriously.
+            Max: I have to admit...there really is a synergy between models and photographers. It's sort of what came to mind when I asked you to be my partner. Uh, not that I would really know. You're kind of the first one I've worked with in a serious way...
+            Rachel's eyes light up. She leans in close, like she's going to whisper. Instinctively, I do, too.
+            Rachel: Synergy! That's the word!
+            Her exclamation makes me jerk back. Rachel can be loud sometimes. She and Chloe are like a two-woman firing squad.
+            Rachel: We're an electric combo, Max. I can feel it. And we can really amp it up one-on-one. Let's raise the stakes on this contest!
+            I laugh nervously. Rachel and I are so different. Really different. Can we synergize?
+            Max: I kinda need to figure out what the stakes even are before we do any raising...
+            Rachel tilts her head to the side and reaches up to idly touch the feather earring that she's always wearing. I've never seen her without it.
+            Rachel: Then how about we scout out some locations? We can go right now.
+            Max: And ditch class?
+            Rachel: And ditch class.
+            Rachel's smile dares me to take her up on it. I know that if I were Chloe, I'd instantly drop everything and go. They're always skipping together.
+            But I'm not Chloe. It's starting to fully hit me that I'm going to be spending plenty of time alone with Rachel this week. I don't know what to expect. And I have no idea what things are going to be like without Chloe around. I guess I'm going to find out.
+            Skipping class makes me nervous. We could easily just go later. But Rachel looks so enthusiastic about the idea...
+        }
+    }
+}
+
+CHOICES {
+   CHOICE {
+        [Let's go now]
+        EFFECTS {
+            LETS_GO_NOW_REPLY = true
+            DITCHED = true
+        }
+
+        TEXT {
+            I might regret this, but it's hard to say no to Rachel.
+            Max: Let's go now...before I change my mind.
+            I guess I must look nervous about it, because Rachel bursts out laughing.
+            Rachel: Okay, but don't look so nauseous! Madsen's not gonna pop out and arrest you. Probably.
+            Max: Oh, no...
+            She winks at me, and then she stands and offers me a hand up. I take it. Her grip is really strong.
+            Rachel: I've got the perfect place.
+        }
+   } 
+
+   CHOICE {
+        [Can we meet up later?]
+        EFFECTS {
+            DITCHED = false
+        }
+
+        TEXT {
+            Max: Do you think that maybe we can meet up later?
+            I feel uber lame for asking. I really hope Rachel's not disappointed that I want to stay around and finish class for the day. She's so cool, and I'll always be a geek.
+            Rachel: Aw.
+            She does look a little put out, but it's only for a second.
+            Rachel: That's probably the better idea. I'm trying not to get carried away, but I'm just hella excited.
+            We smile at one another.
+            Max: I know. Me, too.
+            Rachel: I'll drop by your room later, then we'll go from there. I think I know a place that would be totally rad for photos.
+        }
+   }
+}
+
+TEXT {
+    #Beach/Underpass
+}
+
+
+IF DITCHED {
+    EFFECTS {
+        RUN(lis_ditched.wyd)
+    }
+} ELSE {
+    EFFECTS {
+        RUN(lis_not_ditched.wyd)
+    }
+}
+
+TEXT {
+    Wednesday
+    Max's Room
+    (Alarm beeps)
+
+    If only I could reverse time... I'd love to have just another hour of sleep. But I've got to face the day. I reach over and shut my alarm off.
 }

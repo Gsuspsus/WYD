@@ -1,0 +1,267 @@
+EFFECTS {
+    WENT_TO_BEACH = false
+    WENT_TO_UNDERPASS = true
+    GOTO(Intro)
+}
+
+TEXT[Intro] {
+    I'm glad that Rachel was okay with meeting up later. The last thing I want is more absences on my record. I've got enough of those already, thanks to Chloe... Just a few more, and I know I'll be getting a disappointed call from my mom. So I'm relieved that Rachel was alright with waiting.
+    She came by my dorm room around dusk to get me. I usually don't like leaving campus after dark, so I'm really nervous, especially because I don't recognize this area at all. But Rachel seems to know exactly where she is. She looks pretty confident about it. I instinctively stick close as she leads the way down a street I've never even seen before. I don't want to admit that I'm spooked, but...I totally am. Rachel's not even remotely unsettled.
+    Actually, when I think about it, I don't think I've ever seen her look worried or anxious before...have I? I'm still trying to come up with an example when Rachel finally puts her hand on my shoulder and brings us both to a stop. I look around at where she's brought me.
+    (Car driving by)
+    Rachel: Check it out.
+    It's an underpass. It's eerily lit by the streetlights, a concrete monster with a wide, dark tunnel. The architecture is interesting. It's super urban, different from a lot of the things in Arcadia Bay. There's a ton of colorful graffiti disappearing into the shadows of the tunnel. My mind immediately begins thinking of a million different photos I could take here. My nerves start to fade.
+    Max: This is...
+    Rachel's looking right at me.
+    Max: It's actually super cool, Rachel. This place will make for an awesome photo.
+    Rachel's lips spread in a smile.
+    Rachel: I thought you'd be into it. It's super edgy, right?
+    Max: Yeah. I didn't know this was even here.
+    Rachel: You should come out exploring more with me and Chloe.
+    Max: I don't know. I was sort of scared we'd get mugged on the way here...
+    Rachel: You can't spend your whole life worrying about stuff like that!
+    Rachel laughs and walks down the path towards the tunnel. She slips her cell phone out of her pocket and turns the flashlight on. I do the same.
+    Rachel: Look.
+    I don't have to ask to know what she's talking about. There's so much graffiti here, I can barely make out what any of it is supposed to be. It's all just one big explosion of color. I wonder if Rachel and Chloe have ever added any of their own tags here.
+    I can't help but think that this place really suits Rachel. Not because it's grimy. It suits her because it feels kind of...free and rebellious. Like her.
+    I know that Rachel wants to make it big in Hollywood. Maybe that's why she likes this place. It's so different from the usual sights in Arcadia Bay. Maybe it reminds her of LA. It's very urban and exciting and untraditional, everything our little town isn't.
+    Rachel: Check out this one. The blue bird.
+    I look at the design she's pointing out. It's hard to see beneath all of the other tags, but soon I make out the shape of its wings.
+    Rachel: It was my fave. I came here one day and someone had sprayed right over it. I legit felt depressed.
+    Max: Graffiti's a really impermanent form of art.
+    Rachel grins.
+    Rachel: I'm glad you said that.
+    Max: Huh?
+    Rachel: That it's art. Some people think this stuff is just vandalism, you know?
+    Max: It's definitely art. Art is expression, so...
+    Rachel: This place has so much character. And a thousand different stories and ideas and statements. There's one behind every tag. Isn't that cool to think about?
+    I look again at the walls. There are layers upon layers of paint here. I find myself wondering just how many years of youth the Arcadia Bay have been coming here to make their statements.
+    Max: Now that you mention it...yeah. Any photo we take here for the contest would be amazing.
+    Rachel: There's just something I really like about this place.
+}
+CHOICES {
+    CHOICE {
+        [I love the lighting]
+        TEXT {
+            Max: The lighting is almost...supernatural.
+            Rachel: There's actually a rumor that this place is haunted.
+            I draw my cell phone closer to my chest. As if that would protect me from ghosts. Jeez...
+            Max: You're joking!
+            Rachel: I swear! I mean, I'm pretty sure.
+            She pauses, looking thoughtful.
+            Rachel: I was pretty drunk when someone told me the story...
+            Max: There's a story?
+            Rachel: Wanna hear it?
+            Max: No! Not right now. Maybe when we get back... I'll be too freaked to stick around if you tell me right now.
+            Rachel: We could come next time with a spirit board!
+            She looks way too excited about that idea. My stomach plummets through my guts.
+            Max: Rachel!
+            Rachel laughs. It echoes off the walls of the tunnel. Then she seems to have an idea.
+            Rachel: Hey, come on. Let's go sit up top.
+            (Cars drive by)
+            I follow Rachel up the stairs to the side of the underpass. On top, there are lots of cars streaking by.
+            I'm not sure what Rachel wants to do, but I quickly realize once I see her climbing onto the railing. She perches there and fishes a pack of cigarettes out of her pocket. I'm way too nervous to try doing the same thing. It would be so typical for me to fall. I wind up just standing next to her.
+            Max: Aren't you scared of falling?
+            Rachel: Why would I be?
+            Rachel says it like she's surprised by the idea. I watch her light her cigarette.
+            Max: I'm clumsy. I guess I forget that not everyone is.
+            Rachel: Clumsy's cute.
+            My face feels a little hot. Rachel's really good at making everything she says sound like the truth. She's so convincing, and it's like she's not even trying to be.
+            I watch as she takes a deep inhale. She blows the smoke in the opposite direction, away from my face. I can't help but think again of how little I know about Rachel. She seems like even more of an enigma out here under the purple sky...
+            Rachel: I've gone to so many crazy parties out here. It's kind of nice just to chill for once.
+            Rachel tilts her face up towards the moon.
+            Max: Parties...here? Oh. You mean in the tunnel.
+            Rachel: Yeah. It's a fun little place to drink in. Actually, I bet we'll probably see some people showing up soon. It's almost a nightly event.
+            Max: Maybe we shouldn't stick around.
+            Rachel: You'd probably know some of them! A lot of Blackwell kids come here to kick it.
+            I want to ask what kind of Blackwell kids come here, but Rachel has friends from all kinds of cliques. It could be any of them.
+            Max: You always seem to know what's happening and where.
+            Rachel: That's what it's like being the life of the party...
+            Rachel says it like she's teasing, but it seems like there's something else on her mind. I try to figure out a way to ask as I watch her light up a second cigarette, but I barely know how to talk to Rachel even when Chloe's around, let alone when she's not. Typical me. I have no idea what to say...
+            Rachel: Hey, Max...
+            Max: Yeah?
+            Rachel lets out a cloud of smoke.
+            Rachel: I haven't told anyone this yet, but I've been scouted by an agency in LA.
+            I'm surprised. Not because Rachel's been scouted, but because she's kept it to herself. That seems like the kind of news she'd want to share with everybody. It's a pretty huge deal to be approached by a modeling agent. This is the kind of news Rachel has been hoping for, for so long. Why tell me first?
+            I'm still wondering why even as she goes on, talking without taking a breath.
+            Rachel: I'm going to have to move. Pack all my shit up and get out of here. Maybe even as soon as the end of this semester. They say they want to get started ASAP...and that they could get me bookings tomorrow, if I were already there. You know I'm from Long Beach, right? In a way, it'll be like going home... It'll definitely put law school on hold. But at least it's finally happened. And now I can tell everyone who said it wouldn't to suck it.
+        }
+    }
+    CHOICE {
+        [The graffiti is my favorite part]
+        TEXT {
+            Max: I'm already in love with the graffiti. I want to take so many photos of it all.
+            Rachel looks pretty happy. She reaches up to touch what's left of the blue bird.
+            Rachel: That would be sick! Then you can immortalize stuff like my little friend here.
+            Max: Then maybe it won't be such impermanent art.
+            Rachel: Yeah. Wish I'd taken a photo.
+            Rachel smooths her hand against the wall, her fingers lining up with the feathers of the bird's wings.
+            Rachel: But nothing gold can stay, right?
+            Max: Or nothing blue.
+            Rachel: Or nothing blue! Right.
+            Rachel's grinning again.
+            Rachel: I'm going to come back here and tag the biggest, bluest bird anyone's ever seen.
+            Max: Try not to get caught.
+            Rachel: If you keep my scheme on the DL, I won't be!
+            Rachel laughs. It echoes off the walls of the tunnel. Then she seems to have an idea.
+            Rachel: Hey, come on. Let's go sit up top.
+            (Cars drive by)
+            I follow Rachel up the stairs to the side of the underpass. On top, there are lots of cars streaking by.
+            I'm not sure what Rachel wants to do, but I quickly realize once I see her climbing onto the railing. She perches there and fishes a pack of cigarettes out of her pocket. I'm way too nervous to try doing the same thing. It would be so typical for me to fall. I wind up just standing next to her.
+            Max: Aren't you scared of falling?
+            Rachel: Why would I be?
+            Rachel says it like she's surprised by the idea. I watch her light her cigarette.
+            Max: I'm clumsy. I guess I forget that not everyone is.
+            Rachel: Clumsy's cute.
+            My face feels a little hot. Rachel's really good at making everything she says sound like the truth. She's so convincing, and it's like she's not even trying to be.
+            I watch as she takes a deep inhale. She blows the smoke in the opposite direction, away from my face. I can't help but think again of how little I know about Rachel. She seems like even more of an enigma out here under the purple sky...
+            Rachel: I've gone to so many crazy parties out here. It's kind of nice just to chill for once.
+            Rachel tilts her face up towards the moon.
+            Max: Parties...here? Oh. You mean in the tunnel.
+            Rachel: Yeah. It's a fun little place to drink in. Actually, I bet we'll probably see some people showing up soon. It's almost a nightly event.
+            Max: Maybe we shouldn't stick around.
+            Rachel: You'd probably know some of them! A lot of Blackwell kids come here to kick it.
+            I want to ask what kind of Blackwell kids come here, but Rachel has friends from all kinds of cliques. It could be any of them.
+            Max: You always seem to know what's happening and where.
+            Rachel: That's what it's like being the life of the party...
+            Rachel says it like she's teasing, but it seems like there's something else on her mind. I try to figure out a way to ask as I watch her light up a second cigarette, but I barely know how to talk to Rachel even when Chloe's around, let alone when she's not. Typical me. I have no idea what to say...
+            Rachel: Hey, Max...
+            Max: Yeah?
+            Rachel lets out a cloud of smoke.
+            Rachel: I haven't told anyone this yet, but I've been scouted by an agency in LA.
+            I'm surprised. Not because Rachel's been scouted, but because she's kept it to herself. That seems like the kind of news she'd want to share with everybody. It's a pretty huge deal to be approached by a modeling agent. This is the kind of news Rachel has been hoping for, for so long. Why tell me first?
+            I'm still wondering why even as she goes on, talking without taking a breath.
+            Rachel: I'm going to have to move. Pack all my shit up and get out of here. Maybe even as soon as the end of this semester. They say they want to get started ASAP...and that they could get me bookings tomorrow, if I were already there. You know I'm from Long Beach, right? In a way, it'll be like going home... It'll definitely put law school on hold. But at least it's finally happened. And now I can tell everyone who said it wouldn't to suck it.
+        }
+    }
+    CHOICE {
+        [The architecture is so cool]
+        TEXT {
+            Max: The architecture is so cool. It's...different.
+            Rachel: I guess. I mean, it's an underpass.
+            Max: I mean it's different from most of the stuff in Arcadia Bay.
+            Rachel peers down the tunnel towards the end, where the lights taper off into the darkness.
+            Rachel: Yeah. I think the town's entire collection of graffiti is here.
+            Max: Would you be the expert on that?
+            Rachel laughs. It echoes off the walls of the tunnel. Then she seems to have an idea.
+            Rachel: Hey, come on. Let's go sit up top.
+            (Cars drive by)
+            I follow Rachel up the stairs to the side of the underpass. On top, there are lots of cars streaking by.
+            I'm not sure what Rachel wants to do, but I quickly realize once I see her climbing onto the railing. She perches there and fishes a pack of cigarettes out of her pocket. I'm way too nervous to try doing the same thing. It would be so typical for me to fall. I wind up just standing next to her.
+            Max: Aren't you scared of falling?
+            Rachel: Why would I be?
+            Rachel says it like she's surprised by the idea. I watch her light her cigarette.
+            Max: I'm clumsy. I guess I forget that not everyone is.
+            Rachel: Clumsy's cute.
+            My face feels a little hot. Rachel's really good at making everything she says sound like the truth. She's so convincing, and it's like she's not even trying to be.
+            I watch as she takes a deep inhale. She blows the smoke in the opposite direction, away from my face. I can't help but think again of how little I know about Rachel. She seems like even more of an enigma out here under the purple sky...
+            Rachel: I've gone to so many crazy parties out here. It's kind of nice just to chill for once.
+            Rachel tilts her face up towards the moon.
+            Max: Parties...here? Oh. You mean in the tunnel.
+            Rachel: Yeah. It's a fun little place to drink in. Actually, I bet we'll probably see some people showing up soon. It's almost a nightly event.
+            Max: Maybe we shouldn't stick around.
+            Rachel: You'd probably know some of them! A lot of Blackwell kids come here to kick it.
+            I want to ask what kind of Blackwell kids come here, but Rachel has friends from all kinds of cliques. It could be any of them.
+            Max: You always seem to know what's happening and where.
+            Rachel: That's what it's like being the life of the party...
+            Rachel says it like she's teasing, but it seems like there's something else on her mind. I try to figure out a way to ask as I watch her light up a second cigarette, but I barely know how to talk to Rachel even when Chloe's around, let alone when she's not. Typical me. I have no idea what to say...
+            Rachel: Hey, Max...
+            Max: Yeah?
+            Rachel lets out a cloud of smoke.
+            Rachel: I haven't told anyone this yet, but I've been scouted by an agency in LA.
+            I'm surprised. Not because Rachel's been scouted, but because she's kept it to herself. That seems like the kind of news she'd want to share with everybody. It's a pretty huge deal to be approached by a modeling agent. This is the kind of news Rachel has been hoping for, for so long. Why tell me first?
+            I'm still wondering why even as she goes on, talking without taking a breath.
+            Rachel: I'm going to have to move. Pack all my shit up and get out of here. Maybe even as soon as the end of this semester. They say they want to get started ASAP...and that they could get me bookings tomorrow, if I were already there. You know I'm from Long Beach, right? In a way, it'll be like going home... It'll definitely put law school on hold. But at least it's finally happened. And now I can tell everyone who said it wouldn't to suck it.
+        }
+    }
+}
+CHOICES {
+    CHOICE {
+        [You're practically the queen of Arcadia Bay]
+        TEXT {
+            Max: Everyone's going to miss you. You're practically the queen of Arcadia Bay...and Blackwell.
+            I can't even imagine what the uproar is going to be like if she leaves.
+            It's hard to think of an Arcadia Bay without Rachel Amber in it. I can't think of anyone who isn't at least acquainted with her. She has friends all over our sleepy little town.
+            Rachel: I know.
+            Her head dips down, the cigarette lolling out of one corner of her mouth. I think of saying something, but then she looks back up at me with a slightly mischievous expression.
+            Rachel: Would that make you my handmaiden?
+            Max: I think there would be a lot of competition for that position...
+            Rachel: I'm moving your resume to the front of the queue.
+            I don't know how much time passe as Rachel and I chat about school and our friends. It starts to get a lot colder.
+            She seems to decide that she's had enough chain-smoking, and I watch as she swings her legs back over the railing and joins me where I'm standing.
+            I hear a commotion down beneath the underpass. Both Rachel and I peer over the edge. Just like she'd predicted, there's a bunch of people showing up. Everyone's whooping and hollering, and probably already plastered.
+            Rachel turns towards me. Her eyes are bright. I think...I already know what she's going to ask.
+            Rachel: Do you want to stick around and party?
+            As usual, my mind jumps to the parts that worry me.
+            Max: We've got school tomorrow.
+            Rachel: We'll be back before midnight.
+            Max: I don't really like drinking.
+            Rachel's expression softens.
+            Rachel: I know. You don't have to, and I won't either, okay? Let's just stay around and dance.
+            Dancing? I don't do much of that, either...but Rachel looks so excited.
+            I know I'll be completely exhausted in school tomorrow if I stay, but I'm having a good time with her. I'm not sure what to do.
+        }
+    }
+    CHOICE {
+        [Absolutely. I think you should go for it]
+        TEXT {
+            Max: I know you've got a lot going on in Arcadia Bay...but I think you should absolutely go for it.
+            Even now, Rachel's supporting me with the contest, so I have to support her in this. This could be the big break that Rachel's been looking for. Everybody knows how much she's wanted this.
+            Rachel: I...
+            Rachel lowers her cigarette, and she brightens.
+            Rachel: Thank you so much, Max. Can you imagine how wicked cool the parties in LA are? I've got to get you over there once I'm situated. But first I definitely have to get you used to ragers before I leave.
+            I don't know about the ragers, but...
+            Max: I know you've got this.
+            Rachel reaches over and slings an arm around my shoulders. I feel flustered, but it's nice. No wonder Chloe's so overprotective of her friendship with Rachel. Rachel's so...warm.
+            I don't know how much time passe as Rachel and I chat about school and our friends. It starts to get a lot colder.
+            She seems to decide that she's had enough chain-smoking, and I watch as she swings her legs back over the railing and joins me where I'm standing.
+            I hear a commotion down beneath the underpass. Both Rachel and I peer over the edge. Just like she'd predicted, there's a bunch of people showing up. Everyone's whooping and hollering, and probably already plastered.
+            Rachel turns towards me. Her eyes are bright. I think...I already know what she's going to ask.
+            Rachel: Do you want to stick around and party?
+            As usual, my mind jumps to the parts that worry me.
+            Max: We've got school tomorrow.
+            Rachel: We'll be back before midnight.
+            Max: I don't really like drinking.
+            Rachel's expression softens.
+            Rachel: I know. You don't have to, and I won't either, okay? Let's just stay around and dance.
+            Dancing? I don't do much of that, either...but Rachel looks so excited.
+            I know I'll be completely exhausted in school tomorrow if I stay, but I'm having a good time with her. I'm not sure what to do.
+        }
+    }
+}
+CHOICES {
+    CHOICE {
+        [Yeah, let's stay]
+        EFFECTS {
+            STAYED_FOR_PARTY = true
+        }
+        TEXT {
+            Max: I guess there's a first time for everything. Let's stay and dance.
+            What's gotten into me? I don't do stuff like this. There's something about hanging out with Rachel that makes me want to be more adventurous. I'm...actually a little excited. So is Rachel. She's thrilled.
+            Rachel: Yeah? Really? I mean, yeah! Hell yeah!
+            Rachel grabs my hand and squeezes it tight, and then, before I can change my mind, she tugs me down the stairs.
+            Like she promised, she doesn't ask me to drink, and she doesn't, either. We actually wind up having a lot of fun. Rachel's burnout friends are weird, but they're cool. They're all really nice to me once Rachel introduces me as her friend. This is what it's like being social royalty, huh?
+            I enjoy myself way more than I thought I would. Rachel's energy is so infectious, I could easily stay way past midnight, but she reminds me that we have to head back to Blackwell eventually. I don't regret agreeing to stay at all.
+            Once we get back to the dorms and I hit my bed, I pass out almost right away, thinking about Rachel's enigmatic smile.
+        }
+    }
+    CHOICE {
+        [I don't know]
+        EFFECTS {
+            STAYED_FOR_PARTY = false
+        }
+        TEXT {
+            Max: I don't know...
+            Rachel looks a little crestfallen. I feel like I've disappointed her.
+            Rachel: That's cool. Maybe another night.
+            Of course she's being nice about it. Rachel is nice about everything...but I can't help but think that I've screwed up somehow.
+            Max: Sorry...
+            Rachel: Don't apologize! Seriously. Let's head back, 'kay?
+            She gives me a reassuring smile.
+            Rachel: Don't skip school, don't stay out late... At least one of us is on the straight and narrow.
+            Max: Or the lame and uncool.
+            Rachel: Don't talk like that. We've still got time to catch the bus.
+            Once we get back to the dorms, I try to concentrate on my homework, but I give up about half an hour into it, because I can't stop thinking about Rachel's enigmatic smile.
+        }
+    }
+}

@@ -1,0 +1,47 @@
+CHOICES {
+    CHOICE {
+        [It's cool]
+        EFFECTS {
+            ITS_COOL_REPLY = true
+        }
+        TEXT {
+            Max: It's cool. I was eating.
+            Rachel: Oh, good. So you won't mind if I do? I kept running into distractions. I haven't even had time to eat all day.
+            Now that I take a good look at her, I see that Rachel really looks like she's been in a rush. I'm glad I decided to be patient. She's always got so much on her plate.
+            Max Of course I don't mind.
+            I look beyond her shoulder. The "skater bros" are all hanging out by the steps, like they always are. One of them waves at us...or maybe just at Rachel. I know she hangs out with them a lot. I don't know how one person manages to fit into so many social groups.
+            Max: You'd break their hearts. Justin's clearly drooling. I can see it all the way from here.
+            Rachel: Hell, yeah, I'd crush 'em. I wanna be a maneater!
+            Max: I thought you wanted to be a model.
+            Rachel: Part and parcel, Max.
+            She grins at me. It's so bright and warm. Rachel's smile has a way of making you feel special. Like she's totally happy to be devoting all of her attention to you. Maybe that's her secret to popularity.
+            Max: Well, I need you to keep it to modeling for this contest... If that's cool with you.
+            Rachel: Ice cold.
+            I cringe. Open mouth, insert foot much, self?
+            Max: I'm sorry—
+            Rachel: I mean it's cool, Max!
+            Max: Oh. Of course.
+            She laughs. I feel embarrassed. Of course I misunderstood. I'm reminded again of how there's a lot I still don't know about Rachel. Is it that I'm totally socially awkward, or is it that she's an enigma? Maybe it's a bit of both.
+            Rachel: Anyway, I am so excited for this thing.
+            Max: Really? I mean, me too, but...
+            Rachel: Come on. Sit with me over there.
+            Before I can respond, Rachel is reaching down to loop her arms around one of mine. She locks her grip on me, and I try not to stumble as I stand. Rachel leans into me, smiling, and she tugs me towards a tree.
+            I'm a little startled, but Rachel's always been really physical. She's always tapping your shoulder, or reaching for your arm, or hugging you to say hi. I like that about her. She's so extroverted compared to me.
+            (Birds chirp)
+            It's quieter here, away from the sound of the fountain.
+            Rachel only lets go of me once she moves to sit, and she pats the grass beside herself, unwrapping a granola bar as she talks.
+            Rachel: I'm so fucking stoked you asked me to do this with you.
+            Hearing her say it like that...I believe her. But why?
+            Max: You're doing me a huge favor, so if there's anything I can do for you, like if you get a project later in the year that you need help with, I'm there. I know a photography contest probably seems a little lame to you...
+            Rachel: A favor? What? I'm doing this for me!
+            Max: Huh?
+            Rachel: Well, for you, too.
+            Her expression softens. It lets me know that she's teasing. Rachel's always like that. It drives Chloe nuts.
+            Rachel: It's not lame. I think it's awesome. And I'm glad you asked me to be your partner. I mean...I want to be a model, and you want to be a photographer. So we're a perfect match for this thing, right?
+            A perfect match, huh?
+            Max: Well, when you put it that way...
+            Rachel: My logic's flawless.
+            Seeing how confident Rachel is, I feel a little better about everything already.
+        }
+    }
+}

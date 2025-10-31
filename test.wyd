@@ -1,8 +1,8 @@
-TEXT {
+TEXT[Intro] {
     Your target is sitting by his computer. You are shrouded in shadow, hidden completely.
 }
 
-CHOICES {
+CHOICES[Choice] {
     CHOICE {
         [Shoot him dead.]
         EFFECTS {
@@ -30,5 +30,8 @@ IF SHOT_DEAD {
     TEXT {
         The echoes of the shot is the only source of sense. You can faintly see the faint flickering of the cracked monitor, hanging by it's wire from teh desk.
         Your target's head is half on the floor, half on the wall.
+    }
+    EFFECTS {
+        GOTO(Intro)
     }
 }

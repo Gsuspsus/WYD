@@ -1,0 +1,294 @@
+EFFECTS {
+    WENT_TO_BEACH = true
+    WENT_TO_UNDERPASS = false
+}
+
+TEXT {
+    Before coming to Blackwell, I could count all of the times I'd ever skipped class on one hand. Three out of four of those were because I was sick, or cramping.
+    Hooking up with Chloe again means that I've missed my fair share in the past year. And now Rachel's got me doing it, too.
+    I know she was teasing me, but I seriously expected Chloe's stepdad to materialize from thin air and start yelling at us. Instead, we just had a pretty uneventful trip to the bus stop. I guess I was paranoid for no reason, unless he's waiting to ambush us when we get back. But now that we're here, I already feel better.
+    (Waves crash)
+    This was a good idea. The beach is an awesome place for photos. The light's always so beautiful out here by the water, and the scenery pretty much paints itself. And with a model like Rachel, it'll be hard not to take a good photo.
+    Rachel: It's perfect, right? Just like I said.
+    Max: Yeah, actually. I don't know why I hadn't though of it...
+    Rachel: The beach is one of my fave places. I love just coming here and zoning out.
+    Rachel mimes pinching something between her fingers. I get the picture.
+    Max: You and Chloe both.
+    Rachel laughs.
+    Rachel: Don't worry. I didn't bring you here to watch me get stoned.
+    Max: I know.
+    I look out towards the water. The ocean disappears into the horizon, stretching on forever.
+    Max: We could pretty much take the photo anywhere here.
+    Rachel: Yeah. That's the best part! Anything here would make for a killer backdrop.
+    Rachel spreads her arms to it all. She's totally right. Even in October, the beach here has a certain warmth to it. It's so free and open. Kind of like Rachel, really.
+    I watch as she kicks off her shoes and ditches both them and her backpack by the rocks. She looks so happy out here, kicking at the sand, and it's hard not to be caught up in her good mood.
+    Rachel: Hey, come on! I've already checked for broken glass with my feet.
+    Rachel's got her hands on her hips, looking expectant. I hesitate before kneeling to untie my sneakers.
+    Max: That broken glass joke is not funny...
+    I know that the beach is a favored spot for Vortex-style boozing, and, to be honest, I've seen some pretty shady-looking people hanging around here in the past.
+    Rachel: That's why I checked for it first!
+    Rachel starts laughing at herself. It's infectious.
+    Max: You probably shouldn't use your feet next time.
+    Rachel: If I don't live on the edge, then who will?
+    Max: With that kind of attitude, you will literally be living on the edge. Of broken glass.
+    Rachel: Shit happens!
+    Max: You'll never be able to walk a runway.
+    Rachel: I'm too short for the runway, so whatevs.
+    Max: You're making a pretty big effort here to justify stepping on broken glass bottles.
+    Rachel: I'm just saying that if it happens...
+    Rachel's laughter dissolves into snorting. It's...really cute. I've never heard her snort before.
+    Max: You'll have print work, either way.
+    Rachel: That's the goal.
+    Rachel's picking her way along the sand, and, after rolling my jeans up to my knees, I join her. She seems so comfortable here, but I know that what she really wants is to make it big in Hollywood. She's never shied away from telling everyone about her dreams. She really does exemplify Blackwell. She'll probably be a famous alumni one day...
+    Maybe that's why Rachel loves the beach so much. Maybe it helps her pretend that she's in California instead of Oregon. The sand is wet and freezing down by the water, but it doesn't seem to bother Rachel.
+    Rachel: I'm so happy that I finally get to work with a real photographer.
+    For a moment, I'm not sure who Rachel's even talking about. But it's me, of course. Duh, Max.
+}
+
+CHOICES {
+    CHOICE {
+        [I'm excited to get to work with a real model]
+        TEXT {
+            Max: I'm the one that's excited. I get to work with a real model.
+            Rachel looks pleased. She reaches up to play with her earring.
+            Rachel: I'm just an amateur hoping to play the pro game.
+            She sounds so modest about it.
+            Max: You will. I'll have the bragging rights to say I took your pics before you were famous.
+            Rachel: Or maybe I'll be the one bragging that Max Caulfield did a photoshoot with me before she ever hit it big.
+            She elbows me. It's playful, so I elbow her back.
+            I look out at our surroundings, scanning my eyes from the distant horizon to the long, white stretch of the beach, and then to the cliff and the lighthouse. Each view is so beautiful in its own way.
+            Max: I have no idea where we could even take this photo.
+            Rachel: Anywhere. When it's right, it's right. And you're hardcore! But we'll have to get it in one shot, won't we? Because that instant film is hella expensive... Right?
+            Max: Well, yeah, but...pictures not turning out is a fact of life with any kind of film, so I'm always stocking up on extra.
+            Rachel: I want it to be perfect on the first try.
+            She sounds strangely firm about that. Like she's been thinking it over.
+            I look away from Rachel and up towards the sky. The sun is breaking through the clouds, and it stirs something up in my chest.
+            Max: The light on the beach always makes me feel kinda...
+            I'm not sure what word I'm looking for.
+            Max: ...infinite?
+            It sounds kind of lame like that...
+            Max: Uh, nevermind. That sounds silly.
+            Or like a line from a cliche coming-of-age novel...
+            Rachel: No, it doesn't. I feel the exact same way.
+            Rachel's looking up at the sun, too. I bet she wishes that we were on a beach in LA instead... I wish I could fly her there for the photo, just to say "thank you for helping me out". Rachel looks like she's thinking something over.
+            Rachel: I think that's enough research for today, don't you?
+            She stretches her arms above her head. Or...wait. No, she's taking off her shirt.
+            Max: Um...
+            Rachel: I'm going for a swim!
+            I stand there and watch, stunned, as Rachel shucks off her clothes. She throws her shirt onto the sand, and then she yanks down her jeans. The next thing I know, Rachel is standing there in her underwear. A wave of shock overwhelms me. I almost can't look...almost. Which means that I do. Rachel doesn't look even remotely embarrassed, but I'm red enough for the both of us.
+            Rachel: If you're not coming, I'm heading in!
+            I watch as Rachel turns her back on me and bounds toward the water, her long hair flying. My eyes trail to the tattoo on her calf. It's a dragon that winds from her ankle to her knee. I know that she got it around the time that Chloe got her sleeve done. It's another reminder of the bond of friendship she and Chloe forged while I was gone. But Rachel is so nice, and she's so important to Chloe that it's impossible for me to be jealous.
+            I watch Rachel run into the water...only to turn right back around, yelping.
+            Rachel: Holy shit! That's fucking cold!
+            Max: You didn't get that already?!
+        }
+    }
+
+    CHOICE {
+        [Really? Thank you]
+        TEXT {
+            Max: Really?
+            I don't know what to say. A real photographer? Me? I want to be legit one day in the future, but right now, I'm not even close.
+            Max: Thank you, Rachel.
+            Rachel shrugs.
+            Rachel: I know talent when I see it. And I know a burnout when I see one, too.
+            Max: So I'm not a burnout?
+            Rachel: No way. Unless Blackwell makes you cynical like all the other hipsters.
+            Max: Ugh. No way.
+            Max: I have no idea where we could even take this photo.
+            Rachel: Anywhere. When it's right, it's right. And you're hardcore! But we'll have to get it in one shot, won't we? Because that instant film is hella expensive... Right?
+            Max: Well, yeah, but...pictures not turning out is a fact of life with any kind of film, so I'm always stocking up on extra.
+            Rachel: I want it to be perfect on the first try.
+            She sounds strangely firm about that. Like she's been thinking it over.
+            I look away from Rachel and up towards the sky. The sun is breaking through the clouds, and it stirs something up in my chest.
+            Max: The light on the beach always makes me feel kinda...
+            I'm not sure what word I'm looking for.
+            Max: ...infinite?
+            It sounds kind of lame like that...
+            Max: Uh, nevermind. That sounds silly.
+            Or like a line from a cliche coming-of-age novel...
+            Rachel: No, it doesn't. I feel the exact same way.
+            Rachel's looking up at the sun, too. I bet she wishes that we were on a beach in LA instead... I wish I could fly her there for the photo, just to say "thank you for helping me out". Rachel looks like she's thinking something over.
+            Rachel: I think that's enough research for today, don't you?
+            She stretches her arms above her head. Or...wait. No, she's taking off her shirt.
+            Max: Um...
+            Rachel: I'm going for a swim!
+            I stand there and watch, stunned, as Rachel shucks off her clothes. She throws her shirt onto the sand, and then she yanks down her jeans. The next thing I know, Rachel is standing there in her underwear. A wave of shock overwhelms me. I almost can't look...almost. Which means that I do. Rachel doesn't look even remotely embarrassed, but I'm red enough for the both of us.
+            Rachel: If you're not coming, I'm heading in!
+            I watch as Rachel turns her back on me and bounds toward the water, her long hair flying. My eyes trail to the tattoo on her calf. It's a dragon that winds from her ankle to her knee. I know that she got it around the time that Chloe got her sleeve done. It's another reminder of the bond of friendship she and Chloe forged while I was gone. But Rachel is so nice, and she's so important to Chloe that it's impossible for me to be jealous.
+            I watch Rachel run into the water...only to turn right back around, yelping.
+            Rachel: Holy shit! That's fucking cold!
+            Max: You didn't get that already?!
+        }
+    }
+
+    CHOICE {
+        [I don't know if I'm a real photographer..]
+        TEXT {
+            Max: That's...really nice of you, Rachel, but...I don't know if I'm a real photographer...
+            I'm barely above the level of hobbyist right now. I've got a long way to go.
+            Rachel looks at me sideways and slows her steps. The water just barely misses our toes.
+            Rachel: Do you like taking photos?
+            I'm a little taken aback by the question.
+            Max: Um...well, yeah.
+            Rachel: Then you're a real photographer.
+            Max: I guess what I should have said is that I'm not a pro photographer.
+            Rachel: I never said I wanted to shoot with a pro. I said I wanted to shoot with someone real.
+            Rachel might be blunt, but her words are so reassuring.
+            Max: Then I guess I'm your girl.
+            Max: I have no idea where we could even take this photo.
+            Rachel: Anywhere. When it's right, it's right. And you're hardcore! But we'll have to get it in one shot, won't we? Because that instant film is hella expensive... Right?
+            Max: Well, yeah, but...pictures not turning out is a fact of life with any kind of film, so I'm always stocking up on extra.
+            Rachel: I want it to be perfect on the first try.
+            She sounds strangely firm about that. Like she's been thinking it over.
+            I look away from Rachel and up towards the sky. The sun is breaking through the clouds, and it stirs something up in my chest.
+            Max: The light on the beach always makes me feel kinda...
+            I'm not sure what word I'm looking for.
+            Max: ...infinite?
+            It sounds kind of lame like that...
+            Max: Uh, nevermind. That sounds silly.
+            Or like a line from a cliche coming-of-age novel...
+            Rachel: No, it doesn't. I feel the exact same way.
+            Rachel's looking up at the sun, too. I bet she wishes that we were on a beach in LA instead... I wish I could fly her there for the photo, just to say "thank you for helping me out". Rachel looks like she's thinking something over.
+            Rachel: I think that's enough research for today, don't you?
+            She stretches her arms above her head. Or...wait. No, she's taking off her shirt.
+            Max: Um...
+            Rachel: I'm going for a swim!
+            I stand there and watch, stunned, as Rachel shucks off her clothes. She throws her shirt onto the sand, and then she yanks down her jeans. The next thing I know, Rachel is standing there in her underwear. A wave of shock overwhelms me. I almost can't look...almost. Which means that I do. Rachel doesn't look even remotely embarrassed, but I'm red enough for the both of us.
+            Rachel: If you're not coming, I'm heading in!
+            I watch as Rachel turns her back on me and bounds toward the water, her long hair flying. My eyes trail to the tattoo on her calf. It's a dragon that winds from her ankle to her knee. I know that she got it around the time that Chloe got her sleeve done. It's another reminder of the bond of friendship she and Chloe forged while I was gone. But Rachel is so nice, and she's so important to Chloe that it's impossible for me to be jealous.
+            I watch Rachel run into the water...only to turn right back around, yelping.
+            Rachel: Holy shit! That's fucking cold!
+            Max: You didn't get that already?!
+        }
+    }
+}
+
+CHOICES {
+    CHOICE {
+        [That was such a bad idea]
+        TEXT {
+            Max: Rachel, that...that was a really bad idea.
+            Rachel: D-d-don't you th-think I've re-realized that?
+            Her teeth are chattering. I feel bad for her, even if she did do this to herself. Maybe I shouldn't have scolded her. It's not my place.
+            I watch as Rachel grabs for her clothes and hurriedly starts yanking them back on.
+            Five minutes later, Rachel stops shivering.
+            Rachel: I'm not going to do that again. Not until summer, anyway.
+            Max: The ocean's still pretty cold here in the summer...
+            Rachel doesn't respond. She just heaves a huge sigh.
+            Rachel: Yeah, I know. Wishful thinking.
+            It looks like that's not the only thing that's bothering her.
+            Rachel: Hey, Max?
+            Max: Yeah?
+            Rachel sits down on the sand. I join her. She pulls her knees up to her chest and rests her arms on them.
+            Rachel: I haven't told anyone this yet, but I've been scouted by an agency in LA.
+            I'm surprised. Not because Rachel's been scouted, but because she's kept it to herself. That seems like the kind of news she'd want to share with everybody. It's a pretty huge deal to be approached by a modeling agent. This is the kind of news Rachel has been hoping for, for so long. Why tell me first?
+            I'm still wondering why even as she goes on, talking without taking a breath.
+            Rachel: I'm going to have to move. Pack all my shit up and get out of here. Maybe even as soon as the end of this semester. They say they want to get started ASAP...and that they could get me bookings tomorrow, if I were already there. You know I'm from Long Beach, right? In a way, it'll be like going home... It'll definitely put law school on hold. But at least it's finally happened. And now I can tell everyone who said it wouldn't to suck it.
+            Max: That's amazing, Rachel.
+            Rachel: Isn't it?
+            Rachel's smiling, but...it's hard to tell what she's thinking.
+        }
+    }
+
+    CHOICE {
+        [Do you want my hoodie?]
+        TEXT {
+            I pull my hoodie off and hold it out for her as she approaches. Now I'm cold, too, but at least I'm not soaked like she is.
+            Max: Put this on, Rachel.
+            Rachel looks startled, but she beams at me, even though she's shivering from her head to her toes.
+            Rachel: No, put it back on! If someone has to get sick, it should be just one of us, not two.
+            Max: Are you sure?
+            Rachel: One hundred percent. Thanks, though, Max. Seriously.
+            She reaches out and squeezes my forearm with one wet hand, and then she starts getting dressed again as fast as possible.
+            Five minutes later, Rachel stops shivering.
+            Rachel: I'm not going to do that again. Not until summer, anyway.
+            Max: The ocean's still pretty cold here in the summer...
+            Rachel doesn't respond. She just heaves a huge sigh.
+            Rachel: Yeah, I know. Wishful thinking.
+            It looks like that's not the only thing that's bothering her.
+            Rachel: Hey, Max?
+            Max: Yeah?
+            Rachel sits down on the sand. I join her. She pulls her knees up to her chest and rests her arms on them.
+            Rachel: I haven't told anyone this yet, but I've been scouted by an agency in LA.
+            I'm surprised. Not because Rachel's been scouted, but because she's kept it to herself. That seems like the kind of news she'd want to share with everybody. It's a pretty huge deal to be approached by a modeling agent. This is the kind of news Rachel has been hoping for, for so long. Why tell me first?
+            I'm still wondering why even as she goes on, talking without taking a breath.
+            Rachel: I'm going to have to move. Pack all my shit up and get out of here. Maybe even as soon as the end of this semester. They say they want to get started ASAP...and that they could get me bookings tomorrow, if I were already there. You know I'm from Long Beach, right? In a way, it'll be like going home... It'll definitely put law school on hold. But at least it's finally happened. And now I can tell everyone who said it wouldn't to suck it.
+            Max: That's amazing, Rachel.
+            Rachel: Isn't it?
+            Rachel's smiling, but...it's hard to tell what she's thinking.
+        }
+    }
+
+    CHOICE {
+        [Here's your clothes]
+        TEXT {
+            I kneel to pick up Rachel's clothes for her and start shaking all of the sand out of them. I hold them out to her when she approaches.
+            Max: Here's your clothes.
+            Rachel: Thanks, Max. That was, like, an unbelievably horrible idea.
+            It was, but it was also really...Rachel. Something spontaneous and crazy and fun. Aside from the chance of catching pneumonia, anyway. Rachel's pretty tough, though. I think she'll be okay. I watch her pull her clothes back on.
+            Five minutes later, Rachel stops shivering.
+            Rachel: I'm not going to do that again. Not until summer, anyway.
+            Max: The ocean's still pretty cold here in the summer...
+            Rachel doesn't respond. She just heaves a huge sigh.
+            Rachel: Yeah, I know. Wishful thinking.
+            It looks like that's not the only thing that's bothering her.
+            Rachel: Hey, Max?
+            Max: Yeah?
+            Rachel sits down on the sand. I join her. She pulls her knees up to her chest and rests her arms on them.
+            Rachel: I haven't told anyone this yet, but I've been scouted by an agency in LA.
+            I'm surprised. Not because Rachel's been scouted, but because she's kept it to herself. That seems like the kind of news she'd want to share with everybody. It's a pretty huge deal to be approached by a modeling agent. This is the kind of news Rachel has been hoping for, for so long. Why tell me first?
+            I'm still wondering why even as she goes on, talking without taking a breath.
+            Rachel: I'm going to have to move. Pack all my shit up and get out of here. Maybe even as soon as the end of this semester. They say they want to get started ASAP...and that they could get me bookings tomorrow, if I were already there. You know I'm from Long Beach, right? In a way, it'll be like going home... It'll definitely put law school on hold. But at least it's finally happened. And now I can tell everyone who said it wouldn't to suck it.
+            Max: That's amazing, Rachel.
+            Rachel: Isn't it?
+            Rachel's smiling, but...it's hard to tell what she's thinking.
+        }
+    }    
+}
+
+CHOICES {
+    CHOICE {
+        [You're bigger than Arcadia Bay]
+        TEXT {
+            Max: You're so much bigger than Arcadia Bay, Rachel. You have to make the most of this opportunity.
+            Even now, Rachel is supporting me with the contest, so I have to support her in this. This could be the big break that Rachel's been looking for. Everybody knows how much she's wanted this.
+            Rachel: I...
+            Rachel tightens her arms over her knees.
+            Rachel: Thank you so much, Max. It means a lot that someone with your eye sees me that way.
+            My eye... I feel like I should thank her, too.
+            Max: I know you've got this.
+            Rachel reaches over and slings an arm around my shoulders. I feel flustered, but it's nice. No wonder Chloe's so overprotective of her friendship with Rachel. Rachel's so...warm.
+            We sit like that for a little while, watching the water slosh up onto the shore.
+            It's starting to get colder as the afternoon begins to wane. Rachel seems to be thinking the same thing, because she starts putting her shoes back on.
+            Rachel: We should get back to Blackwell before we both freeze.
+            Max: Yeah. We both need to be in top shape if we want to get a good photo later this week... At least, you need to be.
+            Rachel: Great photos don't happen without their photographers, Max.
+            Max: You're right. Of course you are.
+            Rachel just smiles at me.
+            We gather our things and head back towards the bus stop. Once we're back at school, Rachel and I split up. There's still time for me to catch my last class of the day, so after I bid her goodbye, I set off running. I can still feel tons of sand in my shoes. But I might as well have skipped the rest of the day, anyway, because I think about Rachel's enigmatic smile throughout the whole class.
+        }
+    }
+
+    CHOICE {
+        [Everyone here loves you so much]
+        TEXT {
+            Max: Everyone here loves you so much. We're all going to miss you a lot.
+            It's hard to think of an Arcadia Bay without Rachel Amber in it. I can't think of anyone who isn't at least acquainted with her. She has friends all over our sleepy little town.
+            Rachel: I know.
+            Rachel's head dips towards her knees. The silence turns awkward. I think of saying something to break it, but then she lifts her chin.
+            Rachel: Hey, look.
+            She points to something, and I look up. There's a seagull strutting four feet away.
+            Rachel: I bet you can get this photo if you're quick.
+            Max: If I'm quick.
+            I slip my camera out of my bag and line the shot up. I snap the photo, and the seagull startles and flies away.
+            It's starting to get colder as the afternoon begins to wane. Rachel seems to be thinking the same thing, because she starts putting her shoes back on.
+            Rachel: We should get back to Blackwell before we both freeze.
+            Max: Yeah. We both need to be in top shape if we want to get a good photo later this week... At least, you need to be.
+            Rachel: Great photos don't happen without their photographers, Max.
+            Max: You're right. Of course you are.
+            Rachel just smiles at me.
+            We gather our things and head back towards the bus stop. Once we're back at school, Rachel and I split up. There's still time for me to catch my last class of the day, so after I bid her goodbye, I set off running. I can still feel tons of sand in my shoes. But I might as well have skipped the rest of the day, anyway, because I think about Rachel's enigmatic smile throughout the whole class.
+        }
+    }
+}
